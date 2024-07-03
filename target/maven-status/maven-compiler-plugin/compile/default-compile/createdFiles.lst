@@ -1,0 +1,6 @@
+com/training/demo/model/Movie.class
+com/training/demo/service/MovieService.class
+com/training/demo/repository/MovieRepository.class
+com/training/demo/controller/MovieController.class
+com/training/demo/DemoApplication.class
+com/training/demo/model/Movie$MovieBuilder.class
